@@ -4,7 +4,5 @@ $(document).ready(function () {
     $("body").toggleClass("lock");
   });
 
-  console.log('recommend')
-
-
+  console.log("recommend");
 });
